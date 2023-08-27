@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T01:10:18.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="twqHHctiU2cmCsrT2peu" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T01:15:29.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HAS8SsVKq3J-EBSgit7H" version="21.6.9" type="github">
   <diagram name="Page-1" id="UsAYCT-MOmfcocP8UOKd">
     <mxGraphModel dx="2480" dy="-754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Yao_jXpXjMWIqEVGHdek-2" value="user" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-1102" y="1298" width="140" height="156" as="geometry" />
+          <mxGeometry x="-1102" y="1298" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Yao_jXpXjMWIqEVGHdek-3" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Yao_jXpXjMWIqEVGHdek-2" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -16,11 +16,8 @@
         <mxCell id="zLBTp8niFQGNblQEWYJQ-29" value="surname" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Yao_jXpXjMWIqEVGHdek-2">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zLBTp8niFQGNblQEWYJQ-30" value="password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Yao_jXpXjMWIqEVGHdek-2">
-          <mxGeometry y="104" width="140" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="zLBTp8niFQGNblQEWYJQ-31" value="phone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Yao_jXpXjMWIqEVGHdek-2">
-          <mxGeometry y="130" width="140" height="26" as="geometry" />
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zLBTp8niFQGNblQEWYJQ-1" value="Jurnal izoh qoldirish shaklida&lt;br&gt;test fanlardan&lt;br&gt;test natijasi izohdami yoki alohidami?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1395" y="1212" width="160" height="208" as="geometry" />
