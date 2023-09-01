@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T01:49:30.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="P1xZmduUq1hur8R0aXbN" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T01:56:46.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1ahvlg_2NNY868Pjl-2s" version="21.6.9" type="github">
   <diagram name="Page-1" id="UsAYCT-MOmfcocP8UOKd">
-    <mxGraphModel dx="2632" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="-673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
         <mxCell id="zLBTp8niFQGNblQEWYJQ-1" value="Jurnal izoh qoldirish shaklida&lt;br&gt;test fanlardan&lt;br&gt;test natijasi izohdami yoki alohidami?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1542" y="1314" width="160" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="zLBTp8niFQGNblQEWYJQ-2" value="comments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-701" y="1100" width="140" height="182" as="geometry" />
+        <mxCell id="zLBTp8niFQGNblQEWYJQ-2" value="statistics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-748" y="1169" width="140" height="182" as="geometry" />
         </mxCell>
         <mxCell id="zLBTp8niFQGNblQEWYJQ-3" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zLBTp8niFQGNblQEWYJQ-2" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
